@@ -44,6 +44,9 @@ With the participants' permission, the circuits submitted to the contest can be 
 
 Please refer to the [results presentation](https://github.com/alanminko/iwls2025-ls-contest/blob/main/IWLS_2025_Contest_Presentation.pdf) for the details on the winners.
 
+The winner presentations can be found [here](https://github.com/alanminko/iwls2025-ls-contest/tree/main/presentations).
+
+
 Congratulations to the winners!
 
 ---
